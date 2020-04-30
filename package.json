@@ -1,0 +1,22 @@
+{
+  "name": "shakespeare-insult-generator",
+  "version": "1.0.0",
+  "description": "> *Have you no wit, manners, nor honesty but to gabble like tinkers at this time of night? - Twelfth Night*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rokakerman/shakespeare-insult-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rokakerman/shakespeare-insult-generator/issues"
+  },
+  "homepage": "https://github.com/Rokakerman/shakespeare-insult-generator#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
